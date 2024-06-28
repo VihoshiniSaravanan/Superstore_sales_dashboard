@@ -2,6 +2,7 @@
 ## Objective:
 Developed a comprehensive sales dashboard to analyze sales data, track key performance indicators, and provide actionable insights for optimizing sales strategies and improving overall business performance.
 ##### Tools Used: Power BI,Excel
+![Superstore Sales Dashboard](https://github.com/VihoshiniSaravanan/Superstore_sales_dashboard/assets/173756615/6764683c-42ac-4edd-9bca-d0e7503fd298)
 
 
 #### Actions Taken:
